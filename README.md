@@ -36,4 +36,4 @@ To install the app:
 
 - Clone the repo and run `npm install` to install the dependencies.
 - Then run `npm start` to start the API. The API will be running on port 3000.
-- Open a browser and navigate to the html or use live server instead
+- Open a browser and navigate to the html or use live server from VSCode IDE instead
